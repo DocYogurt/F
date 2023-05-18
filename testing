@@ -1,4 +1,4 @@
 local rj = loadstring(game:HttpGet("https://github.com/DocYogurt/F/raw/main/latest", true))()
-for i = 1,10 do rj:Say("快手关注DX") end
+
 rj:Kick("活该","我没困吧","哈哈")
 
